@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/gautam-das-054417131" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
   </a>
-  <a href="https://stackoverflow.com/users/14013830" target="_blank">
+  <a href="https://stackoverflow.com/users/14255740/gautam" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40">
   </a>
   <a href="https://www.hackerrank.com/bob_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bob_98" height="30" width="40" />
