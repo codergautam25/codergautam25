@@ -44,8 +44,6 @@
 
   </p><br><br><br>
 
-<p align="right"><img align="right" src="https://eportfolio.utm.my/artefact/file/download.php?file=682043&view=171850&embedded=1&text=691127" width="450" alt="naveedamir484" style="border-radius: 10px;" /></p>
-
   <p align="left">
   <div> 
   <h3 style="text-align: center;">⭐ PROFILE HIGHLIGHTS ⭐</h3> 
