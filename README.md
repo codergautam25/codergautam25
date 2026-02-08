@@ -1,7 +1,7 @@
 <div align="center">
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=codergautam25&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62)
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Python+%26+JavaScript+Expert;Open+Source+Contributor;Always+Learning)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Python+%26+JavaScript+Expert;Open+Source+Contributor;Always+Learning)
 </div>
 <div align="center">
   
@@ -60,21 +60,15 @@
 </div>
 <br/>
 <div align="center">
-  ### 🏆 GitHub Trophies
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codergautam25&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4" alt="codergautam25" />
-  </a>
-</div>
-<br/>
-<div align="center">
   ### 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=codergautam25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergautam25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages graph"  />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codergautam25&theme=radical" alt="profile details" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codergautam25&theme=radical" alt="productive time" />
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codergautam25&theme=radical&hide_border=true&background=0D1117" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codergautam25&theme=radical&hide_border=true" alt="streak stats" />
 </div>
 <br/>
 <div align="center">
