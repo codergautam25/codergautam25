@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=codergautam25&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
   
 </div>
----
+
 <div align="center">
   I'm a passionate Full Stack Developer from India 🇮🇳 who loves building scalable web applications and exploring new technologies.
   
