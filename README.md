@@ -62,8 +62,8 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
         <img src="https://img.shields.io/badge/Next.js_14-0B0F17?style=for-the-badge&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/React_19-0B0F17?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <br/>
+        <img src="https://img.shields.io/badge/Android_SDK-0B0F17?style=for-the-badge&logo=android&logoColor=3DDC84" />
         <img src="https://img.shields.io/badge/Kotlin-0B0F17?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-0B0F17?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -105,16 +105,6 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
       <td>Local-first, privacy-preserving AI job application assistant & intelligence analytics dashboard.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/codergautam25/Railway-Time-Table-management"><b>Railway-Time-Table-management</b></a> ★1</td>
-      <td><code>Java</code> <code>JDBC</code> <code>SQL</code></td>
-      <td>Multi-tier railway timetable management platform featuring schedule lookups, train route tracking, and seat availability.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/Consult-a-doctor"><b>Consult-a-doctor</b></a></td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>MySQL</code></td>
-      <td>Healthcare appointment booking platform connecting patients with specialized medical consultants.</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/codergautam25/phase3-SportyShoe"><b>phase3-SportyShoe</b></a></td>
       <td><code>Java</code> <code>Spring Boot</code> <code>Hibernate</code></td>
       <td>E-commerce inventory and order management system tailored for footwear retail operations.</td>
@@ -136,21 +126,31 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
 
 ---
 
-### 📱 2. Mobile Applications
+### 📱 2. Mobile Applications (Android)
 
 <table>
   <thead>
     <tr>
-      <th>Application</th>
+      <th>Mobile Application</th>
       <th>Primary Language & Stack</th>
       <th>Domain & Mobile Features</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/codergautam25/Railway-Time-Table-management"><b>Railway-Time-Table-management</b></a> ★1</td>
+      <td><code>Java</code> <code>Android SDK</code> <code>SQLite/JDBC</code></td>
+      <td>Android railway timetable management app featuring schedule lookups, train route tracking, and seat availability.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/codergautam25/Consult-a-doctor"><b>Consult-a-doctor</b></a></td>
+      <td><code>Java</code> <code>Android SDK</code> <code>Spring Boot</code></td>
+      <td>Android healthcare appointment booking app connecting patients with specialized medical consultants.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/codergautam25/bookHub"><b>bookHub</b></a></td>
       <td><code>Kotlin</code> <code>Android SDK</code> <code>REST API</code></td>
-      <td>Native Android application providing curated book discovery, reading list management, user reviews, and star ratings.</td>
+      <td>Native Android book discovery app providing curated reading lists, user reviews, and star ratings.</td>
     </tr>
   </tbody>
 </table>
