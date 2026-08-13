@@ -27,12 +27,12 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
 
 ---
 
-### 🛠️ Technical Competencies
+### 🛠️ Technical Competencies & Tooling
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ Backend & Systems</h4>
+      <h4>⚡ Backend & Languages</h4>
       <p>
         <img src="https://img.shields.io/badge/Python_3.12-0B0F17?style=for-the-badge&logo=python&logoColor=3776AB" />
         <img src="https://img.shields.io/badge/TypeScript-0B0F17?style=for-the-badge&logo=typescript&logoColor=3178C6" />
@@ -44,7 +44,7 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌊 Event Streaming & Data</h4>
+      <h4>🌊 Event Streaming & Databases</h4>
       <p>
         <img src="https://img.shields.io/badge/Apache_Kafka-0B0F17?style=for-the-badge&logo=apachekafka&logoColor=white" />
         <img src="https://img.shields.io/badge/ksqlDB-0B0F17?style=for-the-badge&logo=apachekafka&logoColor=00D2FF" />
@@ -67,13 +67,46 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ Observability & Cloud Infrastructure</h4>
+      <h4>🛠️ Developer Tools & Utilities</h4>
       <p>
-        <img src="https://img.shields.io/badge/New_Relic-0B0F17?style=for-the-badge&logo=newrelic&logoColor=008C99" />
-        <img src="https://img.shields.io/badge/Docker-0B0F17?style=for-the-badge&logo=docker&logoColor=2496ED" />
+        <img src="https://img.shields.io/badge/VS_Code-0B0F17?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+        <img src="https://img.shields.io/badge/Postman-0B0F17?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+        <img src="https://img.shields.io/badge/Git-0B0F17?style=for-the-badge&logo=git&logoColor=F05032" />
         <br/>
-        <img src="https://img.shields.io/badge/Jenkins_CI-0B0F17?style=for-the-badge&logo=jenkins&logoColor=D24939" />
-        <img src="https://img.shields.io/badge/Linux_Systems-0B0F17?style=for-the-badge&logo=linux&logoColor=FCC624" />
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-0B0F17?style=for-the-badge&logo=intellijidea&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyCharm-0B0F17?style=for-the-badge&logo=pycharm&logoColor=21D789" />
+        <img src="https://img.shields.io/badge/Bun-0B0F17?style=for-the-badge&logo=bun&logoColor=fbf0df" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### ☁️ Cloud, Deployment & DevOps Infrastructure
+
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📦 Containerization & CI/CD Pipelines</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-0B0F17?style=for-the-badge&logo=docker&logoColor=2496ED" />
+        <img src="https://img.shields.io/badge/Docker_Compose-0B0F17?style=for-the-badge&logo=docker&logoColor=2496ED" />
+        <br/>
+        <img src="https://img.shields.io/badge/Jenkins_CI/CD-0B0F17?style=for-the-badge&logo=jenkins&logoColor=D24939" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-0B0F17?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud Platforms & Telemetry</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Vercel-0B0F17?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-0B0F17?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+        <br/>
+        <img src="https://img.shields.io/badge/Flyway_DB-0B0F17?style=for-the-badge&logo=flyway&logoColor=CC0200" />
+        <img src="https://img.shields.io/badge/New_Relic-0B0F17?style=for-the-badge&logo=newrelic&logoColor=008C99" />
       </p>
     </td>
   </tr>
