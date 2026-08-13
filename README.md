@@ -57,12 +57,12 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Frontend & Web Interfaces</h4>
+      <h4>🌐 Frontend & Mobile</h4>
       <p>
         <img src="https://img.shields.io/badge/Next.js_14-0B0F17?style=for-the-badge&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/React_19-0B0F17?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <br/>
-        <img src="https://img.shields.io/badge/Redux_Toolkit-0B0F17?style=for-the-badge&logo=redux&logoColor=764ABC" />
+        <img src="https://img.shields.io/badge/Kotlin-0B0F17?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-0B0F17?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
       </p>
     </td>
@@ -83,128 +83,31 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
 
 ---
 
-### 🌟 Flagship Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/codergautam25/ats-resume-builder-scanner">🎯 ats-resume-builder-scanner</a></h3>
-      <p><em>High-accuracy AI resume parsing, chronological de-interlacing & job match scoring engine.</em></p>
-      <p>
-        • De-interlaces multi-column PDF layouts into clean chronological bullet structures.<br/>
-        • Implements candidate-truth verification to eliminate AI hallucinated skills.<br/>
-        • Built with TypeScript, Node.js, and modern PDF extraction pipelines.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-0B0F17?style=flat-square&logo=typescript" />
-        <img src="https://img.shields.io/badge/Node.js-0B0F17?style=flat-square&logo=node.js" />
-        <img src="https://img.shields.io/badge/PDF_Parsing-0B0F17?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/codergautam25/JobChecker">🛡️ JobChecker</a></h3>
-      <p><em>Local-first, privacy-preserving AI job application assistant & intelligence dashboard.</em></p>
-      <p>
-        • Offline-first architecture protecting sensitive candidate data on local hardware.<br/>
-        • Automated job application tracking, status telemetry, and match analytics.<br/>
-        • Built with Python & FastAPI backend with zero remote tracking.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0B0F17?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/FastAPI-0B0F17?style=flat-square&logo=fastapi" />
-        <img src="https://img.shields.io/badge/Privacy_First-0B0F17?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/codergautam25/Kafka-xml-smt">⚡ Kafka-xml-smt</a></h3>
-      <p><em>Custom Apache Kafka Single Message Transform (SMT) for XML payloads.</em></p>
-      <p>
-        • Transforms legacy XML record formats into clean JSON events inside Kafka connectors.<br/>
-        • Optimized for low-latency transformation without external microservice hops.<br/>
-        • Built with Java and Kafka Connect SMT framework.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-0B0F17?style=flat-square&logo=java" />
-        <img src="https://img.shields.io/badge/Apache_Kafka-0B0F17?style=flat-square&logo=apachekafka" />
-        <img src="https://img.shields.io/badge/SMT-0B0F17?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/codergautam25/secure-password-local-manager-vault">🔐 secure-password-local-manager-vault</a></h3>
-      <p><em>Zero-trust encrypted password manager & local secret store vault.</em></p>
-      <p>
-        • AES-256 encrypted local credential storage with salted PBKDF2 key derivation.<br/>
-        • Lightweight CLI & GUI interface with zero cloud dependencies.<br/>
-        • Strict local security audits and key rotation functionality.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0B0F17?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/Cryptography-0B0F17?style=flat-square" />
-        <img src="https://img.shields.io/badge/Security-0B0F17?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-### 🌊 Distributed Event Streaming & Real-Time Data
+### 🌐 1. Web & Full-Stack Applications
 
 <table>
   <thead>
     <tr>
-      <th>Repository</th>
-      <th>Stack</th>
-      <th>Architecture & Highlights</th>
+      <th>Application</th>
+      <th>Primary Language & Stack</th>
+      <th>Domain & Architecture Overview</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/codergautam25/Quarkas_streaming_ksqldb"><b>Quarkas_streaming_ksqldb</b></a></td>
-      <td><code>Quarkus</code> <code>ksqlDB</code> <code>Kafka</code></td>
-      <td>Real-time event processing combining Quarkus reactive microservices with ksqlDB SQL stream queries.</td>
+      <td><a href="https://github.com/codergautam25/ats-resume-builder-scanner"><b>ats-resume-builder-scanner</b></a></td>
+      <td><code>TypeScript</code> <code>Node.js</code> <code>React</code></td>
+      <td>High-accuracy AI resume parsing, chronological PDF de-interlacing, and ATS keyword matching engine.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/codergautam25/kafkaConsumer"><b>kafkaConsumer</b></a></td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>Kafka</code></td>
-      <td>Spring Boot Kafka consumer implementation featuring manual offset acknowledgment and custom deserializers.</td>
+      <td><a href="https://github.com/codergautam25/JobChecker"><b>JobChecker</b></a></td>
+      <td><code>Python</code> <code>FastAPI</code> <code>Privacy-First</code></td>
+      <td>Local-first, privacy-preserving AI job application assistant & intelligence analytics dashboard.</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/kafkaProduecer"><b>kafkaProduecer</b></a></td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>Kafka</code></td>
-      <td>High-throughput Spring Boot Kafka producer with idempotent publishing and partition routing.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/kafka-railway-time"><b>kafka-railway-time</b></a></td>
-      <td><code>Java</code> <code>Kafka</code> <code>Event-Driven</code></td>
-      <td>Event-driven streaming pipeline for tracking real-time railway schedule updates over Kafka topics.</td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
----
-
-### 💼 Enterprise Platforms & Full-Stack Applications
-
-<table>
-  <thead>
-    <tr>
-      <th>Repository</th>
-      <th>Stack</th>
-      <th>Description & Purpose</th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <td><a href="https://github.com/codergautam25/Railway-Time-Table-management"><b>Railway-Time-Table-management</b></a> ★1</td>
-      <td><code>Java</code> <code>SQL</code> <code>JDBC</code></td>
-      <td>Railway timetable management system featuring schedule queries, train route tracking, and seat lookups.</td>
+      <td><code>Java</code> <code>JDBC</code> <code>SQL</code></td>
+      <td>Multi-tier railway timetable management platform featuring schedule lookups, train route tracking, and seat availability.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/codergautam25/Consult-a-doctor"><b>Consult-a-doctor</b></a></td>
@@ -222,9 +125,9 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
       <td>Interactive online testing & evaluation platform with dynamic question categories and real-time scoring.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/codergautam25/bookHub"><b>bookHub</b></a></td>
-      <td><code>Kotlin</code> <code>Android SDK</code></td>
-      <td>Mobile book discovery application providing curated reading lists, user reviews, and ratings.</td>
+      <td><a href="https://github.com/codergautam25/Full-Stack-Projects"><b>Full-Stack-Projects</b></a></td>
+      <td><code>TypeScript</code> <code>Python</code> <code>HTML</code></td>
+      <td>Full-stack application collection featuring responsive UI components, REST APIs, and database integrations.</td>
     </tr>
   </tbody>
 </table>
@@ -233,56 +136,122 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
 
 ---
 
-### 🛠️ Infrastructure, DevOps & Engineering Labs
+### 📱 2. Mobile Applications
 
 <table>
   <thead>
     <tr>
-      <th>Repository</th>
-      <th>Category</th>
-      <th>Technical Overview</th>
+      <th>Application</th>
+      <th>Primary Language & Stack</th>
+      <th>Domain & Mobile Features</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/codergautam25/bookHub"><b>bookHub</b></a></td>
+      <td><code>Kotlin</code> <code>Android SDK</code> <code>REST API</code></td>
+      <td>Native Android application providing curated book discovery, reading list management, user reviews, and star ratings.</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+---
+
+### 🧪 3. Proofs of Concept (PoCs) & Distributed Architecture
+
+<table>
+  <thead>
+    <tr>
+      <th>Proof of Concept (PoC)</th>
+      <th>Primary Language & Technology</th>
+      <th>Architectural Focus & Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/codergautam25/Kafka-xml-smt"><b>Kafka-xml-smt</b></a></td>
+      <td><code>Java</code> <code>Apache Kafka SMT</code></td>
+      <td>Custom Single Message Transform (SMT) for real-time legacy XML payload transformation within Kafka Connect connectors.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/codergautam25/Quarkas_streaming_ksqldb"><b>Quarkas_streaming_ksqldb</b></a></td>
+      <td><code>Java</code> <code>Quarkus</code> <code>ksqlDB</code></td>
+      <td>Reactive event processing architecture combining Quarkus microservices with real-time ksqlDB stream joins.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/codergautam25/kafkaConsumer"><b>kafkaConsumer</b></a></td>
+      <td><code>Java</code> <code>Spring Boot</code> <code>Kafka</code></td>
+      <td>Resilient Kafka consumer implementation featuring manual offset acknowledgment, retries, and custom deserializers.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/codergautam25/kafkaProducer"><b>kafkaProducer</b></a></td>
+      <td><code>Java</code> <code>Spring Boot</code> <code>Kafka</code></td>
+      <td>High-throughput Kafka producer with idempotent publishing, failure handling, and partition key routing.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/codergautam25/kafka-railway-time"><b>kafka-railway-time</b></a></td>
+      <td><code>Java</code> <code>Kafka</code> <code>Event-Driven</code></td>
+      <td>Event-driven streaming PoC for real-time railway schedule updates streamed over Kafka topics.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/codergautam25/secure-password-local-manager-vault"><b>secure-password-local-manager-vault</b></a></td>
+      <td><code>Python</code> <code>Cryptography</code> <code>AES-256</code></td>
+      <td>Zero-trust encrypted password vault using AES-256 and PBKDF2 key derivation for local secret storage.</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+---
+
+### 🔬 4. Demo Projects, DevOps Infrastructure & Educational Labs
+
+<table>
+  <thead>
+    <tr>
+      <th>Demo / Lab Repository</th>
+      <th>Primary Language & Tooling</th>
+      <th>Technical Category & Focus</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/codergautam25/Docker_project"><b>Docker_project</b></a></td>
-      <td><code>DevOps</code> <code>Docker</code></td>
-      <td>Multi-container application orchestration configs with optimized multi-stage build layers.</td>
+      <td><code>Dockerfile</code> <code>Docker Compose</code></td>
+      <td>Multi-container application orchestration demonstration featuring multi-stage Docker builds and network isolation.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/codergautam25/Phase2-Flyway"><b>Phase2-Flyway</b></a></td>
-      <td><code>Databases</code> <code>Flyway</code></td>
-      <td>Automated relational database schema migration and version control setup using Flyway.</td>
+      <td><code>Java</code> <code>Flyway</code> <code>SQL</code></td>
+      <td>Relational database schema migration PoC showcasing versioned database scripts with Flyway.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/codergautam25/jenkinsDemo"><b>jenkinsDemo</b></a></td>
-      <td><code>CI/CD</code> <code>Jenkins</code></td>
-      <td>Continuous Integration build pipeline demonstration featuring automated build & test stages.</td>
+      <td><code>Groovy</code> <code>Jenkins</code> <code>CI/CD</code></td>
+      <td>Continuous Integration pipeline demo showcasing automated build stages, testing scripts, and deployment steps.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/codergautam25/PasswordManager"><b>PasswordManager</b></a></td>
-      <td><code>Security</code> <code>Python</code></td>
-      <td>Python key-value encrypted password storage utility with master password authentication.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/Full-Stack-Projects"><b>Full-Stack-Projects</b></a></td>
-      <td><code>Full-Stack</code> <code>Web</code></td>
-      <td>Curated repository of full-stack prototypes, frontend experiments, and API endpoints.</td>
+      <td><code>Python</code> <code>Security</code></td>
+      <td>Command-line encrypted password storage demo with master key authentication.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/codergautam25/GitHub-Simplilearn"><b>GitHub-Simplilearn</b></a></td>
-      <td><code>Version Control</code></td>
-      <td>Git branching strategies, commit history management, and collaborative workflow practice.</td>
+      <td><code>Git</code> <code>Version Control</code></td>
+      <td>Practical demonstration of advanced Git workflows, branch strategies, and commit history management.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/codergautam25/Simplilearn-GitHUb-Assessment-"><b>Simplilearn-GitHUb-Assessment</b></a></td>
-      <td><code>Assessment</code></td>
-      <td>Enterprise software engineering and version control assessment project.</td>
+      <td><code>Git</code> <code>Assessment</code></td>
+      <td>Enterprise software engineering assessment showcasing version control and repository management best practices.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/codergautam25/simplilearn_september_batch"><b>simplilearn_september_batch</b></a></td>
-      <td><code>Engineering Labs</code></td>
-      <td>Full-stack Java, DevOps, and cloud architecture hands-on exercises and project code.</td>
+      <td><code>Java</code> <code>DevOps</code> <code>Cloud</code></td>
+      <td>Comprehensive engineering lab exercises and practical code implementations for cloud architecture and enterprise Java.</td>
     </tr>
   </tbody>
 </table>
