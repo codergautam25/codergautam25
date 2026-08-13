@@ -18,7 +18,7 @@
 
 Full-Stack & Systems Engineer specializing in **high-throughput event streaming**, **privacy-preserving AI applications**, and **scalable distributed backend architectures**. Experienced in building resilient microservices with **Apache Kafka**, **FastAPI**, **Node.js**, and **Next.js**, coupled with deep observability powered by **New Relic**.
 
-- 🚀 **Live Production Platform**: Creator & Lead Architect of **[Trijon.in](https://trijon.in)** — Multi-cloud architecture (Vercel + OCI + Render + Neon DB + Redis + Cashfree + Resend + Doppler).
+- 🚀 **Live Production Platform**: Creator & Lead Architect of **[Trijon.in](https://trijon.in)** — Multi-cloud architecture (Vercel + OCI + Render + Caddy Reverse Proxy + DR Multi-Region Failover + Neon DB + Shiprocket API + Cashfree + Resend + Doppler).
 - 🤖 **AI & Autonomous Engineering**: Leverages **Google Antigravity**, **Claude**, **ChatGPT**, **Gemini Gems**, and **Opal** for high-velocity software delivery.
 - ⚡ **Core Strengths**: Event-driven streaming (Kafka/ksqlDB), multi-cloud backend architecture, local-first zero-knowledge security.
 - 📫 **Direct Reach**: [gautamdas251998@gmail.com](mailto:gautamdas251998@gmail.com) • [LinkedIn](https://linkedin.com/in/gautam-das-251998)
@@ -33,20 +33,24 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
   <tr>
     <td width="100%" valign="top">
       <h3>🚀 <a href="https://trijon.in">Trijon.in — Multi-Cloud Enterprise Platform</a> (Live in Production 🟢)</h3>
-      <p><em>High-availability multi-cloud platform featuring serverless PostgreSQL, Redis caching, real-time logistics APIs, asynchronous webhooks, Doppler zero-trust secrets, and Resend transactional notifications.</em></p>
+      <p><em>High-availability multi-cloud platform featuring Disaster Recovery (DR) multi-region failover, Caddy reverse proxy, serverless PostgreSQL, Redis caching, Shiprocket logistics APIs, asynchronous webhooks, Doppler zero-trust secrets, and Resend transactional notifications.</em></p>
       <ul>
         <li><b>Frontend Deployment</b>: Hosted on <b>Vercel</b> — Built with <code>React 19</code>, <code>Vite 8</code>, <code>Tailwind CSS v4</code>, <code>Framer Motion</code>, <code>TanStack Query</code>, and <code>Zustand</code>.</li>
-        <li><b>Backend Microservices</b>: Distributed API & services running across <b>Oracle Cloud Infrastructure (OCI)</b> & <b>Render</b>.</li>
+        <li><b>Backend Microservices & Gateway</b>: Multi-cloud infrastructure deployed across <b>Oracle Cloud Infrastructure (OCI)</b> & <b>Render</b> with <b>Caddy Web Server</b> for automatic HTTPS/TLS termination & reverse proxy routing.</li>
+        <li><b>Disaster Recovery (DR) & High Availability</b>: Multi-region active-passive failover between OCI VM & Render fallback nodes with automated database snapshot sync.</li>
         <li><b>Database & In-Memory Cache</b>: <b>Neon DB</b> (Serverless PostgreSQL) for persistent data storage + <b>Redis</b> for high-throughput session caching & rate limiting.</li>
+        <li><b>Logistics & Shipping Engine</b>: Integrated <b>Shiprocket API</b> for automated courier dispatch, pincode serviceability checks, shipping rate calculation, and live tracking webhooks.</li>
         <li><b>Payment & Webhook Gateway</b>: <b>Cashfree Payments SDK</b> (<code>@cashfreepayments/cashfree-js</code>) + Custom <b>Asynchronous Webhook Gateway</b> for real-time payment reconciliation.</li>
-        <li><b>Logistics & Dispatch APIs</b>: Integrated automated courier dispatch, shipping provider webhooks, and live shipment tracking APIs.</li>
         <li><b>Secrets & Email Infrastructure</b>: Centralized zero-trust secrets management via <b>Doppler</b> across Vercel, OCI, and Render + <b>Resend API</b> for high-deliverability transactional emails.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Vercel-0B0F17?style=flat-square&logo=vercel&logoColor=white" />
         <img src="https://img.shields.io/badge/Oracle_Cloud-0B0F17?style=flat-square&logo=oracle&logoColor=F80000" />
         <img src="https://img.shields.io/badge/Render-0B0F17?style=flat-square&logo=render&logoColor=white" />
+        <img src="https://img.shields.io/badge/Caddy_Server-0B0F17?style=flat-square&logo=caddy&logoColor=22B573" />
+        <img src="https://img.shields.io/badge/DR_Failover-0B0F17?style=flat-square&logo=cloudflare&logoColor=F38020" />
         <img src="https://img.shields.io/badge/Neon_DB-0B0F17?style=flat-square&logo=postgresql&logoColor=00E599" />
+        <img src="https://img.shields.io/badge/Shiprocket-0B0F17?style=flat-square" />
         <img src="https://img.shields.io/badge/Redis-0B0F17?style=flat-square&logo=redis&logoColor=DC382D" />
         <img src="https://img.shields.io/badge/Doppler-0B0F17?style=flat-square&logo=doppler&logoColor=FFC107" />
         <img src="https://img.shields.io/badge/Resend-0B0F17?style=flat-square&logo=resend&logoColor=white" />
@@ -128,17 +132,19 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
         <img src="https://img.shields.io/badge/Vercel-0B0F17?style=for-the-badge&logo=vercel&logoColor=white" />
         <img src="https://img.shields.io/badge/Render-0B0F17?style=for-the-badge&logo=render&logoColor=white" />
         <br/>
+        <img src="https://img.shields.io/badge/Caddy_Server-0B0F17?style=for-the-badge&logo=caddy&logoColor=22B573" />
+        <img src="https://img.shields.io/badge/DR_Failover-0B0F17?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
         <img src="https://img.shields.io/badge/Neon_DB-0B0F17?style=for-the-badge&logo=postgresql&logoColor=00E599" />
-        <img src="https://img.shields.io/badge/Firebase-0B0F17?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ Developer Tools & Services</h4>
+      <h4>🛠️ Developer Tools & Integrations</h4>
       <p>
+        <img src="https://img.shields.io/badge/Shiprocket_API-0B0F17?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Doppler_Secrets-0B0F17?style=for-the-badge&logo=doppler&logoColor=FFC107" />
         <img src="https://img.shields.io/badge/Resend_Email-0B0F17?style=for-the-badge&logo=resend&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-0B0F17?style=for-the-badge&logo=docker&logoColor=2496ED" />
         <br/>
+        <img src="https://img.shields.io/badge/Docker-0B0F17?style=for-the-badge&logo=docker&logoColor=2496ED" />
         <img src="https://img.shields.io/badge/Jenkins_CI/CD-0B0F17?style=for-the-badge&logo=jenkins&logoColor=D24939" />
         <img src="https://img.shields.io/badge/New_Relic-0B0F17?style=for-the-badge&logo=newrelic&logoColor=008C99" />
       </p>
@@ -163,8 +169,8 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
   <tbody>
     <tr>
       <td><a href="https://trijon.in"><b>Trijon.in (Live 🟢)</b></a></td>
-      <td><code>React 19</code> <code>Redis</code> <code>Doppler</code> <code>Resend</code> <code>Cashfree</code></td>
-      <td>Multi-cloud live enterprise platform with Redis caching, Doppler zero-trust secrets, Resend emails, and logistics APIs.</td>
+      <td><code>React 19</code> <code>Caddy</code> <code>DR Failover</code> <code>Shiprocket</code> <code>Cashfree</code></td>
+      <td>Multi-cloud enterprise platform with Caddy reverse proxy, DR multi-region failover, Shiprocket APIs, and Doppler secrets.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/codergautam25/ats-resume-builder-scanner"><b>ats-resume-builder-scanner</b></a></td>
