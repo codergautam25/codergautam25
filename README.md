@@ -299,3 +299,5 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
 <div align="center">
   <sub style="color: #64748B;">Crafted with Precision & High Engineering Standards</sub>
 </div>
+
+<!-- Co-authored profile metadata -->
