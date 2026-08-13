@@ -2,7 +2,7 @@
 
   <!-- Custom Senior Data Engineer Doodle Avatar -->
   <a href="https://github.com/codergautam25">
-    <img src="assets/gautam_doodle_avatar.jpg" width="220" style="border-radius: 50%; border: 3px solid #10B981; box-shadow: 0 0 25px rgba(16, 185, 129, 0.4);" alt="Gautam Das - Senior Data Engineer @ Accenture" />
+    <img src="assets/gautam_doodle_avatar.jpg" width="340" style="border-radius: 50%; border: 4px solid #10B981; box-shadow: 0 0 35px rgba(16, 185, 129, 0.5);" alt="Gautam Das - Senior Data Engineer @ Accenture" />
   </a>
 
   <br/><br/>
