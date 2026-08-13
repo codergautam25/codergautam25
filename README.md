@@ -379,3 +379,5 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
 </div>
 
 <!-- Badge trigger -->
+
+<!-- Badge trigger -->
