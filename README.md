@@ -18,16 +18,45 @@
 
 Full-Stack & Systems Engineer specializing in **high-throughput event streaming**, **privacy-preserving AI applications**, and **scalable distributed backend architectures**. Experienced in building resilient microservices with **Apache Kafka**, **FastAPI**, **Node.js**, and **Next.js**, coupled with deep observability powered by **New Relic**.
 
-- 🔭 **Currently Building**: Advanced AI-driven resume parsing & ATS scoring systems with multi-role chronological de-interlacing.
-- ⚡ **Core Strengths**: Event-driven streaming (Kafka/ksqlDB), clean backend API design, local-first zero-knowledge security.
-- 🎯 **Engineering Standard**: Native performance, minimal dependencies, strict type safety, and comprehensive telemetry.
+- 🚀 **Live Production Platform**: Creator & Lead Architect of **[Trijon.in](https://trijon.in)** — Multi-cloud architecture (Vercel + OCI + Render + Neon DB + Cashfree Payments).
+- 🤖 **AI & Autonomous Engineering**: Leverages **Google Antigravity**, **Claude**, **ChatGPT**, **Gemini Gems**, and **Opal** for high-velocity software delivery.
+- ⚡ **Core Strengths**: Event-driven streaming (Kafka/ksqlDB), multi-cloud backend architecture, local-first zero-knowledge security.
 - 📫 **Direct Reach**: [gautamdas251998@gmail.com](mailto:gautamdas251998@gmail.com) • [LinkedIn](https://linkedin.com/in/gautam-das-251998)
 
 <br/>
 
 ---
 
-### 🛠️ Technical Competencies & Tooling
+### 🌟 Live Featured Enterprise Production Platform
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🚀 <a href="https://trijon.in">Trijon.in — Multi-Cloud Enterprise Platform</a> (Live in Production 🟢)</h3>
+      <p><em>High-availability multi-cloud platform featuring serverless PostgreSQL, real-time telemetry, and seamless payment processing.</em></p>
+      <ul>
+        <li><b>Frontend Deployment</b>: Hosted on <b>Vercel</b> — Built with <code>React 19</code>, <code>Vite 8</code>, <code>Tailwind CSS v4</code>, <code>Framer Motion</code>, <code>TanStack Query</code>, and <code>Zustand</code>.</li>
+        <li><b>Backend Microservices</b>: Multi-cloud infrastructure deployed across <b>Oracle Cloud Infrastructure (OCI)</b> & <b>Render</b>.</li>
+        <li><b>Database Persistence</b>: <b>Neon DB</b> (Serverless PostgreSQL) for high-scale, zero-downtime data management.</li>
+        <li><b>Payment Integration</b>: Native payment gateway powered by <b>Cashfree Payments SDK</b> (<code>@cashfreepayments/cashfree-js</code>).</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Vercel-0B0F17?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Oracle_Cloud-0B0F17?style=flat-square&logo=oracle&logoColor=F80000" />
+        <img src="https://img.shields.io/badge/Render-0B0F17?style=flat-square&logo=render&logoColor=white" />
+        <img src="https://img.shields.io/badge/Neon_DB-0B0F17?style=flat-square&logo=postgresql&logoColor=00E599" />
+        <img src="https://img.shields.io/badge/Cashfree_Payments-0B0F17?style=flat-square" />
+        <img src="https://img.shields.io/badge/React_19-0B0F17?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 🛠️ Technical Competencies & AI Tooling
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
@@ -44,18 +73,29 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
       </p>
     </td>
     <td width="50%" valign="top">
+      <h4>🤖 AI Tools & AI IDEs</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Google_Antigravity-0B0F17?style=for-the-badge&logo=google&logoColor=4285F4" />
+        <img src="https://img.shields.io/badge/Claude_3.7-0B0F17?style=for-the-badge&logo=anthropic&logoColor=D97706" />
+        <img src="https://img.shields.io/badge/ChatGPT-0B0F17?style=for-the-badge&logo=openai&logoColor=10A37F" />
+        <br/>
+        <img src="https://img.shields.io/badge/Gemini_Gems-0B0F17?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
+        <img src="https://img.shields.io/badge/Opal-0B0F17?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>🌊 Event Streaming & Databases</h4>
       <p>
         <img src="https://img.shields.io/badge/Apache_Kafka-0B0F17?style=for-the-badge&logo=apachekafka&logoColor=white" />
         <img src="https://img.shields.io/badge/ksqlDB-0B0F17?style=for-the-badge&logo=apachekafka&logoColor=00D2FF" />
         <img src="https://img.shields.io/badge/Quarkus-0B0F17?style=for-the-badge&logo=quarkus&logoColor=4695EB" />
         <br/>
-        <img src="https://img.shields.io/badge/PostgreSQL-0B0F17?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+        <img src="https://img.shields.io/badge/Neon_PostgreSQL-0B0F17?style=for-the-badge&logo=postgresql&logoColor=00E599" />
         <img src="https://img.shields.io/badge/MongoDB-0B0F17?style=for-the-badge&logo=mongodb&logoColor=47A248" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🌐 Frontend & Mobile</h4>
       <p>
@@ -66,18 +106,6 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
         <img src="https://img.shields.io/badge/Kotlin-0B0F17?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Developer Tools & Utilities</h4>
-      <p>
-        <img src="https://img.shields.io/badge/VS_Code-0B0F17?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-        <img src="https://img.shields.io/badge/Postman-0B0F17?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-        <img src="https://img.shields.io/badge/Git-0B0F17?style=for-the-badge&logo=git&logoColor=F05032" />
-        <br/>
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-0B0F17?style=for-the-badge&logo=intellijidea&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyCharm-0B0F17?style=for-the-badge&logo=pycharm&logoColor=21D789" />
-        <img src="https://img.shields.io/badge/Bun-0B0F17?style=for-the-badge&logo=bun&logoColor=fbf0df" />
-      </p>
-    </td>
   </tr>
 </table>
 
@@ -85,27 +113,29 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
 
 ---
 
-### ☁️ Cloud, Deployment & DevOps Infrastructure
+### ☁️ Cloud Platforms, Deployment & Developer Infrastructure
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top">
-      <h4>📦 Containerization & CI/CD Pipelines</h4>
+      <h4>☁️ Cloud & Serverless Infrastructure</h4>
       <p>
-        <img src="https://img.shields.io/badge/Docker-0B0F17?style=for-the-badge&logo=docker&logoColor=2496ED" />
-        <img src="https://img.shields.io/badge/Docker_Compose-0B0F17?style=for-the-badge&logo=docker&logoColor=2496ED" />
+        <img src="https://img.shields.io/badge/Oracle_Cloud_(OCI)-0B0F17?style=for-the-badge&logo=oracle&logoColor=F80000" />
+        <img src="https://img.shields.io/badge/Vercel-0B0F17?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Render-0B0F17?style=for-the-badge&logo=render&logoColor=white" />
         <br/>
-        <img src="https://img.shields.io/badge/Jenkins_CI/CD-0B0F17?style=for-the-badge&logo=jenkins&logoColor=D24939" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-0B0F17?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+        <img src="https://img.shields.io/badge/Neon_DB-0B0F17?style=for-the-badge&logo=postgresql&logoColor=00E599" />
+        <img src="https://img.shields.io/badge/Firebase-0B0F17?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>☁️ Cloud Platforms & Telemetry</h4>
+      <h4>🛠️ Developer Tools & DevOps</h4>
       <p>
-        <img src="https://img.shields.io/badge/Vercel-0B0F17?style=for-the-badge&logo=vercel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-0B0F17?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+        <img src="https://img.shields.io/badge/VS_Code-0B0F17?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+        <img src="https://img.shields.io/badge/Postman-0B0F17?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+        <img src="https://img.shields.io/badge/Docker-0B0F17?style=for-the-badge&logo=docker&logoColor=2496ED" />
         <br/>
-        <img src="https://img.shields.io/badge/Flyway_DB-0B0F17?style=for-the-badge&logo=flyway&logoColor=CC0200" />
+        <img src="https://img.shields.io/badge/Jenkins_CI/CD-0B0F17?style=for-the-badge&logo=jenkins&logoColor=D24939" />
         <img src="https://img.shields.io/badge/New_Relic-0B0F17?style=for-the-badge&logo=newrelic&logoColor=008C99" />
       </p>
     </td>
@@ -127,6 +157,11 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://trijon.in"><b>Trijon.in (Live 🟢)</b></a></td>
+      <td><code>React 19</code> <code>Vite 8</code> <code>Tailwind v4</code> <code>Cashfree</code></td>
+      <td>Multi-cloud live enterprise platform deployed on Vercel, Oracle Cloud, Render, and Neon DB.</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/codergautam25/ats-resume-builder-scanner"><b>ats-resume-builder-scanner</b></a></td>
       <td><code>TypeScript</code> <code>Node.js</code> <code>React</code></td>
