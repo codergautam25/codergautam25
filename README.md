@@ -1,13 +1,27 @@
 <div align="center">
 
+  <!-- Custom Senior Data Engineer Doodle Avatar -->
+  <a href="https://github.com/codergautam25">
+    <img src="assets/gautam_doodle_avatar.jpg" width="220" style="border-radius: 50%; border: 3px solid #10B981; box-shadow: 0 0 25px rgba(16, 185, 129, 0.4);" alt="Gautam Das - Senior Data Engineer @ Accenture" />
+  </a>
+
+  <br/><br/>
+
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F17&height=200&section=header&text=GAUTAM%20DAS&fontSize=56&fontColor=10B981&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Systems%20%7C%20Distributed%20Event%20Architecture%20%7C%20AI%20Engineering&descColor=94A3B8&descAlignY=68&stroke=1E293B&strokeWidth=2" width="100%" alt="Gautam Das Profile Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F17&height=190&section=header&text=GAUTAM%20DAS&fontSize=52&fontColor=10B981&animation=fadeIn&fontAlignY=42&desc=Senior%20Data%20Engineer%20%7C%20Data%20Governance%20%7C%20Accenture&descColor=94A3B8&descAlignY=68&stroke=1E293B&strokeWidth=2" width="100%" alt="Gautam Das Profile Header" />
+
+  <br/>
+
+  <!-- Animated Typing SVG -->
+  <a href="https://github.com/codergautam25">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Senior+Data+Engineer+%40+Accenture;Terraform+%26+Kubernetes+IaC+Architect;Confluent+Cloud%2C+ksqlDB+%26+Apache+Flink+Streaming;AI+Engineering+%26+Model+Context+Protocol+(MCP);Obsidian+Knowledge+Vault+%26+Stitch%2FRender+APIs" alt="Typing Banner" />
+  </a>
 
   <br/>
 
   <!-- Status Pill -->
   <a href="mailto:gautamdas251998@gmail.com">
-    <img src="https://img.shields.io/badge/🟢_STATUS-Open_for_High--Impact_Roles_%26_Architectural_Advisory-0B0F17?style=for-the-badge&labelColor=0B0F17&color=10B981" alt="Status" />
+    <img src="https://img.shields.io/badge/🟢_STATUS-Senior_Data_Engineer_%40_Accenture-0B0F17?style=for-the-badge&labelColor=0B0F17&color=10B981" alt="Status" />
   </a>
 
 </div>
@@ -16,11 +30,13 @@
 
 ### 🏛️ Executive Profile
 
-Full-Stack & Systems Engineer specializing in **high-throughput event streaming**, **privacy-preserving AI applications**, and **scalable distributed backend architectures**. Experienced in building resilient microservices with **Apache Kafka**, **FastAPI**, **Node.js**, and **Next.js**, coupled with deep observability powered by **New Relic**.
+Senior Data Engineer & Data Governance Specialist at **Accenture**, specializing in **enterprise data streaming**, **Infrastructure as Code (IaC)**, **cloud-native orchestration**, and **AI-driven autonomous engineering**. 
+
+Daily workflow revolves around building zero-downtime data pipelines with **Terraform**, **Kubernetes (K8s)**, **Confluent Cloud**, **ksqlDB**, and **Apache Flink**, managed via an **Obsidian Second Brain Knowledge Vault** (`awesome_vault`) and accelerated with **Model Context Protocol (MCP)** toolings (**Stitch API**, **Render API**).
 
 - 🚀 **Live Production Platform**: Creator & Lead Architect of **[Trijon.in](https://trijon.in)** — Multi-cloud architecture (Vercel + OCI + Render + Caddy Reverse Proxy + DR Multi-Region Failover + Neon DB + Shiprocket API + Cashfree + Resend + Doppler).
-- 🤖 **AI & Autonomous Engineering**: Leverages **Google Antigravity**, **Claude**, **ChatGPT**, **Gemini Gems**, and **Opal** for high-velocity software delivery.
-- ⚡ **Core Strengths**: Event-driven streaming (Kafka/ksqlDB), multi-cloud backend architecture, local-first zero-knowledge security.
+- 🧠 **Second Brain & MCP Tooling**: Powered by **Obsidian Knowledge Vault**, **Model Context Protocol (MCP)**, **Stitch Design API**, and **Render API**.
+- 🤖 **AI & Autonomous Engineering**: Leverages **Google Antigravity**, **Claude 3.7**, **ChatGPT**, **Gemini Gems**, and **Opal** for high-velocity software engineering.
 - 📫 **Direct Reach**: [gautamdas251998@gmail.com](mailto:gautamdas251998@gmail.com) • [LinkedIn](https://linkedin.com/in/gautam-das-251998)
 
 <br/>
@@ -36,7 +52,7 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
       <p><em>High-availability multi-cloud platform featuring Disaster Recovery (DR) multi-region failover, Caddy reverse proxy, serverless PostgreSQL, Redis caching, Shiprocket logistics APIs, asynchronous webhooks, Doppler zero-trust secrets, and Resend transactional notifications.</em></p>
       <ul>
         <li><b>Frontend Deployment</b>: Hosted on <b>Vercel</b> — Built with <code>React 19</code>, <code>Vite 8</code>, <code>Tailwind CSS v4</code>, <code>Framer Motion</code>, <code>TanStack Query</code>, and <code>Zustand</code>.</li>
-        <li><b>Backend Microservices & Gateway</b>: Multi-cloud infrastructure deployed across <b>Oracle Cloud Infrastructure (OCI)</b> & <b>Render</b> with <b>Caddy Web Server</b> for automatic HTTPS/TLS termination & reverse proxy routing.</li>
+        <li><b>Backend Microservices & Gateway</b>: Multi-cloud infrastructure deployed across <b>Oracle Cloud Infrastructure (OCI)</b> & <b>Render</b> with <b>Caddy Web Server</b> for automatic HTTPS/TLS termination & reverse proxy routing via <b>Render API</b>.</li>
         <li><b>Disaster Recovery (DR) & High Availability</b>: Multi-region active-passive failover between OCI VM & Render fallback nodes with automated database snapshot sync.</li>
         <li><b>Database & In-Memory Cache</b>: <b>Neon DB</b> (Serverless PostgreSQL) for persistent data storage + <b>Redis</b> for high-throughput session caching & rate limiting.</li>
         <li><b>Logistics & Shipping Engine</b>: Integrated <b>Shiprocket API</b> for automated courier dispatch, pincode serviceability checks, shipping rate calculation, and live tracking webhooks.</li>
@@ -64,20 +80,45 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
 
 ---
 
-### 🛠️ Technical Competencies & AI Tooling
+### 🛠️ Technical Competencies, MCP Tooling & AI Stack
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ Backend & Languages</h4>
+      <h4>☁️ Infrastructure & Stream Processing</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Terraform-0B0F17?style=for-the-badge&logo=terraform&logoColor=844FBA" />
+        <img src="https://img.shields.io/badge/Kubernetes-0B0F17?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+        <img src="https://img.shields.io/badge/Confluent_Cloud-0B0F17?style=for-the-badge&logo=apachekafka&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/ksqlDB-0B0F17?style=for-the-badge&logo=apachekafka&logoColor=00D2FF" />
+        <img src="https://img.shields.io/badge/Apache_Flink-0B0F17?style=for-the-badge&logo=apacheflink&logoColor=E6526F" />
+        <img src="https://img.shields.io/badge/Apache_Kafka-0B0F17?style=for-the-badge&logo=apachekafka&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 Knowledge Vault & MCP Extensions</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Obsidian_Vault-0B0F17?style=for-the-badge&logo=obsidian&logoColor=7A3EE8" />
+        <img src="https://img.shields.io/badge/MCP_Protocol-0B0F17?style=for-the-badge&logo=github&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Stitch_API-0B0F17?style=for-the-badge&logo=google&logoColor=4285F4" />
+        <img src="https://img.shields.io/badge/Render_API-0B0F17?style=for-the-badge&logo=render&logoColor=white" />
+        <img src="https://img.shields.io/badge/DevTools_MCP-0B0F17?style=for-the-badge&logo=googlechrome&logoColor=4285F4" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Data Engineering & Languages</h4>
       <p>
         <img src="https://img.shields.io/badge/Python_3.12-0B0F17?style=for-the-badge&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/PySpark-0B0F17?style=for-the-badge&logo=apachespark&logoColor=E25A1C" />
         <img src="https://img.shields.io/badge/TypeScript-0B0F17?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-        <img src="https://img.shields.io/badge/Java_21-0B0F17?style=for-the-badge&logo=java&logoColor=ED8B00" />
         <br/>
         <img src="https://img.shields.io/badge/FastAPI-0B0F17?style=for-the-badge&logo=fastapi&logoColor=009688" />
-        <img src="https://img.shields.io/badge/Node.js-0B0F17?style=for-the-badge&logo=node.js&logoColor=5FA04E" />
-        <img src="https://img.shields.io/badge/Django-0B0F17?style=for-the-badge&logo=django&logoColor=092E20" />
+        <img src="https://img.shields.io/badge/Java_21-0B0F17?style=for-the-badge&logo=java&logoColor=ED8B00" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0B0F17?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -92,61 +133,38 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌊 Event Streaming & Databases</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Apache_Kafka-0B0F17?style=for-the-badge&logo=apachekafka&logoColor=white" />
-        <img src="https://img.shields.io/badge/ksqlDB-0B0F17?style=for-the-badge&logo=apachekafka&logoColor=00D2FF" />
-        <img src="https://img.shields.io/badge/Quarkus-0B0F17?style=for-the-badge&logo=quarkus&logoColor=4695EB" />
-        <br/>
-        <img src="https://img.shields.io/badge/Neon_PostgreSQL-0B0F17?style=for-the-badge&logo=postgresql&logoColor=00E599" />
-        <img src="https://img.shields.io/badge/Redis-0B0F17?style=for-the-badge&logo=redis&logoColor=DC382D" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 Frontend & Mobile</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_14-0B0F17?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_19-0B0F17?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <br/>
-        <img src="https://img.shields.io/badge/Android_SDK-0B0F17?style=for-the-badge&logo=android&logoColor=3DDC84" />
-        <img src="https://img.shields.io/badge/Kotlin-0B0F17?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
-      </p>
-    </td>
-  </tr>
 </table>
 
 <br/>
 
 ---
 
-### ☁️ Cloud Platforms, Deployment & Developer Infrastructure
+### ☁️ Cloud Platforms, Deployment & Infrastructure Services
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top">
-      <h4>☁️ Cloud & Serverless Infrastructure</h4>
+      <h4>☁️ Cloud Platforms & Storage</h4>
       <p>
         <img src="https://img.shields.io/badge/Oracle_Cloud_(OCI)-0B0F17?style=for-the-badge&logo=oracle&logoColor=F80000" />
         <img src="https://img.shields.io/badge/Vercel-0B0F17?style=for-the-badge&logo=vercel&logoColor=white" />
         <img src="https://img.shields.io/badge/Render-0B0F17?style=for-the-badge&logo=render&logoColor=white" />
         <br/>
-        <img src="https://img.shields.io/badge/Caddy_Server-0B0F17?style=for-the-badge&logo=caddy&logoColor=22B573" />
-        <img src="https://img.shields.io/badge/DR_Failover-0B0F17?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
         <img src="https://img.shields.io/badge/Neon_DB-0B0F17?style=for-the-badge&logo=postgresql&logoColor=00E599" />
+        <img src="https://img.shields.io/badge/Redis-0B0F17?style=for-the-badge&logo=redis&logoColor=DC382D" />
+        <img src="https://img.shields.io/badge/Firebase-0B0F17?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ Developer Tools & Integrations</h4>
+      <h4>🛠️ Governance, CI/CD & Integrations</h4>
       <p>
+        <img src="https://img.shields.io/badge/Data_Governance-0B0F17?style=for-the-badge&logo=shield&logoColor=10B981" />
         <img src="https://img.shields.io/badge/Shiprocket_API-0B0F17?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Doppler_Secrets-0B0F17?style=for-the-badge&logo=doppler&logoColor=FFC107" />
-        <img src="https://img.shields.io/badge/Resend_Email-0B0F17?style=for-the-badge&logo=resend&logoColor=white" />
         <br/>
+        <img src="https://img.shields.io/badge/Resend_Email-0B0F17?style=for-the-badge&logo=resend&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-0B0F17?style=for-the-badge&logo=docker&logoColor=2496ED" />
         <img src="https://img.shields.io/badge/Jenkins_CI/CD-0B0F17?style=for-the-badge&logo=jenkins&logoColor=D24939" />
-        <img src="https://img.shields.io/badge/New_Relic-0B0F17?style=for-the-badge&logo=newrelic&logoColor=008C99" />
       </p>
     </td>
   </tr>
@@ -169,8 +187,8 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
   <tbody>
     <tr>
       <td><a href="https://trijon.in"><b>Trijon.in (Live 🟢)</b></a></td>
-      <td><code>React 19</code> <code>Caddy</code> <code>DR Failover</code> <code>Shiprocket</code> <code>Cashfree</code></td>
-      <td>Multi-cloud enterprise platform with Caddy reverse proxy, DR multi-region failover, Shiprocket APIs, and Doppler secrets.</td>
+      <td><code>React 19</code> <code>Caddy</code> <code>Render API</code> <code>Shiprocket</code> <code>Cashfree</code></td>
+      <td>Multi-cloud live enterprise platform with Caddy reverse proxy, DR multi-region failover, Shiprocket APIs, and Doppler secrets.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/codergautam25/ats-resume-builder-scanner"><b>ats-resume-builder-scanner</b></a></td>
@@ -377,7 +395,3 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
 <div align="center">
   <sub style="color: #64748B;">Crafted with Precision & High Engineering Standards</sub>
 </div>
-
-<!-- Badge trigger -->
-
-<!-- Badge trigger -->
