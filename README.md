@@ -264,13 +264,13 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
 
 <div align="center">
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=codergautam25&theme=dark&background=0B0F17&ring=10B981&fire=F59E0B&currStreakLabel=10B981&border=1E293B" alt="Gautam's GitHub Streak" height="175" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codergautam25&theme=2077" alt="Profile Details Card" height="175" />
     &nbsp;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codergautam25&theme=2077" alt="Profile Summary Card" height="175" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codergautam25&theme=2077" alt="Productive Time Card" height="175" />
   </p>
   <br/>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codergautam25&theme=react-dark&bg_color=0B0F17&color=10B981&line=6366F1&point=F59E0B&area=true&hide_border=false" alt="Activity Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codergautam25&theme=react-dark&bg_color=0B0F17&color=10B981&line=6366F1&point=F59E0B&area=true&hide_border=false" alt="Contribution Activity Graph" width="95%" />
   </p>
 </div>
 
@@ -299,5 +299,3 @@ Full-Stack & Systems Engineer specializing in **high-throughput event streaming*
 <div align="center">
   <sub style="color: #64748B;">Crafted with Precision & High Engineering Standards</sub>
 </div>
-
-<!-- Co-authored profile metadata -->
