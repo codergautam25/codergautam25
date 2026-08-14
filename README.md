@@ -19,6 +19,14 @@
 
   <br/>
 
+  <!-- GitSkins Hero Section -->
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=codergautam25&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=codergautam25&theme=github-dark" alt="codergautam25 hero section" />
+  </picture>
+
+  <br/><br/>
+
   <!-- Status Pill -->
   <a href="mailto:gautamdas251998@gmail.com">
     <img src="https://img.shields.io/badge/🟢_STATUS-Senior_Data_Engineer_%40_Accenture-0B0F17?style=for-the-badge&labelColor=0B0F17&color=10B981" alt="Status" />
@@ -28,7 +36,7 @@
 
 <br/>
 
-### 🏛️ Executive Profile
+## 👤 About Me
 
 Senior Data Engineer & Data Governance Specialist at **Accenture**, specializing in **enterprise data streaming**, **Infrastructure as Code (IaC)**, **cloud-native orchestration**, and **AI-driven autonomous engineering**. 
 
@@ -38,6 +46,13 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
 - 🧠 **Second Brain & MCP Tooling**: Powered by **Obsidian Knowledge Vault**, **Model Context Protocol (MCP)**, **Stitch Design API**, and **Render API**.
 - 🤖 **AI & Autonomous Engineering**: Leverages **Google Antigravity**, **Claude 3.7**, **ChatGPT**, **Gemini Gems**, and **Opal** for high-velocity software engineering.
 - 📫 **Direct Reach**: [gautamdas251998@gmail.com](mailto:gautamdas251998@gmail.com) • [LinkedIn](https://linkedin.com/in/gautam-das-251998)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=codergautam25&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=codergautam25&theme=github-dark" alt="codergautam25 about section" />
+  </picture>
+</p>
 
 <br/>
 
@@ -80,7 +95,16 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
 
 ---
 
-### 🛠️ Technical Competencies, MCP Tooling & AI Stack
+## 🛠️ Skills & Technical Competencies
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=codergautam25&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=codergautam25&theme=github-dark" alt="codergautam25 stack section" />
+  </picture>
+</p>
+
+<br/>
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
@@ -174,6 +198,17 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
 
 ---
 
+## 📂 Projects & Featured Repositories
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=codergautam25&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=codergautam25&theme=github-dark" alt="codergautam25 projects section" />
+  </picture>
+</p>
+
+<br/>
+
 ### 🌐 1. Web & Full-Stack Applications
 
 <table>
@@ -188,7 +223,7 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
     <tr>
       <td><a href="https://trijon.in"><b>Trijon.in (Live 🟢)</b></a></td>
       <td><code>React 19</code> <code>Caddy</code> <code>Render API</code> <code>Shiprocket</code> <code>Cashfree</code></td>
-      <td>Multi-cloud live enterprise platform with Caddy reverse proxy, DR multi-region failover, Shiprocket APIs, and Doppler secrets.</td>
+      <td>Multi-cloud enterprise platform with Caddy reverse proxy, DR multi-region failover, Shiprocket APIs, and Doppler secrets.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/codergautam25/ats-resume-builder-scanner"><b>ats-resume-builder-scanner</b></a></td>
@@ -220,8 +255,6 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
 
 <br/>
 
----
-
 ### 📱 2. Mobile Applications (Android)
 
 <table>
@@ -252,8 +285,6 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
 </table>
 
 <br/>
-
----
 
 ### 🧪 3. Proofs of Concept (PoCs) & Distributed Architecture
 
@@ -300,8 +331,6 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
 </table>
 
 <br/>
-
----
 
 ### 🔬 4. Demo Projects, DevOps Infrastructure & Educational Labs
 
@@ -356,7 +385,16 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
 
 ---
 
-### 📊 Engineering Metrics & Contribution Activity
+## 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=codergautam25&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=codergautam25&theme=github-dark" alt="codergautam25 stats section" />
+  </picture>
+</p>
+
+<br/>
 
 <div align="center">
   <p align="center">
@@ -374,7 +412,16 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
 
 ---
 
-### 🤝 Connect & Collaborate
+## 🤝 Connect & Socials
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=codergautam25&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=codergautam25&theme=github-dark" alt="codergautam25 social section" />
+  </picture>
+</p>
+
+<br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/gautam-das-251998" target="_blank">
