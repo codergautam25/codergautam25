@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Custom Senior Data Engineer Doodle Avatar -->
+  <!-- Custom Senior Data Engineer Doodle Avatar with Animated Border -->
   <a href="https://github.com/codergautam25">
-    <img src="assets/gautam_doodle_avatar.jpg" width="340" style="border-radius: 50%; border: 4px solid #10B981; box-shadow: 0 0 35px rgba(16, 185, 129, 0.5);" alt="Gautam Das - Senior Data Engineer @ Accenture" />
+    <img src="assets/gautam_doodle_avatar.jpg" width="340" style="border-radius: 50%; border: 4px solid #10B981; box-shadow: 0 0 35px rgba(16, 185, 129, 0.6);" alt="Gautam Das - Senior Data Engineer @ Accenture" />
   </a>
 
   <br/><br/>
@@ -28,6 +28,9 @@
 
 <br/>
 
+<!-- Animated Wave Section Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0F17&height=100&section=header&stroke=10B981&strokeWidth=1.5" width="100%" />
+
 ### 🏛️ Executive Profile
 
 Senior Data Engineer & Data Governance Specialist at **Accenture**, specializing in **enterprise data streaming**, **Infrastructure as Code (IaC)**, **cloud-native orchestration**, and **AI-driven autonomous engineering**. 
@@ -50,15 +53,21 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
     <td width="100%" valign="top">
       <h3>🚀 <a href="https://trijon.in">Trijon.in — Multi-Cloud Enterprise Platform</a> (Live in Production 🟢)</h3>
       <p><em>High-availability multi-cloud platform featuring Disaster Recovery (DR) multi-region failover, Caddy reverse proxy, serverless PostgreSQL, Redis caching, Shiprocket logistics APIs, asynchronous webhooks, Doppler zero-trust secrets, and Resend transactional notifications.</em></p>
-      <ul>
-        <li><b>Frontend Deployment</b>: Hosted on <b>Vercel</b> — Built with <code>React 19</code>, <code>Vite 8</code>, <code>Tailwind CSS v4</code>, <code>Framer Motion</code>, <code>TanStack Query</code>, and <code>Zustand</code>.</li>
-        <li><b>Backend Microservices & Gateway</b>: Multi-cloud infrastructure deployed across <b>Oracle Cloud Infrastructure (OCI)</b> & <b>Render</b> with <b>Caddy Web Server</b> for automatic HTTPS/TLS termination & reverse proxy routing via <b>Render API</b>.</li>
-        <li><b>Disaster Recovery (DR) & High Availability</b>: Multi-region active-passive failover between OCI VM & Render fallback nodes with automated database snapshot sync.</li>
-        <li><b>Database & In-Memory Cache</b>: <b>Neon DB</b> (Serverless PostgreSQL) for persistent data storage + <b>Redis</b> for high-throughput session caching & rate limiting.</li>
-        <li><b>Logistics & Shipping Engine</b>: Integrated <b>Shiprocket API</b> for automated courier dispatch, pincode serviceability checks, shipping rate calculation, and live tracking webhooks.</li>
-        <li><b>Payment & Webhook Gateway</b>: <b>Cashfree Payments SDK</b> (<code>@cashfreepayments/cashfree-js</code>) + Custom <b>Asynchronous Webhook Gateway</b> for real-time payment reconciliation.</li>
-        <li><b>Secrets & Email Infrastructure</b>: Centralized zero-trust secrets management via <b>Doppler</b> across Vercel, OCI, and Render + <b>Resend API</b> for high-deliverability transactional emails.</li>
-      </ul>
+      
+      <details>
+        <summary><b>🔍 Expand Architectural Specifications & Subsystem Details</b></summary>
+        <br/>
+        <ul>
+          <li><b>Frontend Deployment</b>: Hosted on <b>Vercel</b> — Built with <code>React 19</code>, <code>Vite 8</code>, <code>Tailwind CSS v4</code>, <code>Framer Motion</code>, <code>TanStack Query</code>, and <code>Zustand</code>.</li>
+          <li><b>Backend Microservices & Gateway</b>: Multi-cloud infrastructure deployed across <b>Oracle Cloud Infrastructure (OCI)</b> & <b>Render</b> with <b>Caddy Web Server</b> for automatic HTTPS/TLS termination & reverse proxy routing via <b>Render API</b>.</li>
+          <li><b>Disaster Recovery (DR) & High Availability</b>: Multi-region active-passive failover between OCI VM & Render fallback nodes with automated database snapshot sync.</li>
+          <li><b>Database & In-Memory Cache</b>: <b>Neon DB</b> (Serverless PostgreSQL) for persistent data storage + <b>Redis</b> for high-throughput session caching & rate limiting.</li>
+          <li><b>Logistics & Shipping Engine</b>: Integrated <b>Shiprocket API</b> for automated courier dispatch, pincode serviceability checks, shipping rate calculation, and live tracking webhooks.</li>
+          <li><b>Payment & Webhook Gateway</b>: <b>Cashfree Payments SDK</b> (<code>@cashfreepayments/cashfree-js</code>) + Custom <b>Asynchronous Webhook Gateway</b> for real-time payment reconciliation.</li>
+          <li><b>Secrets & Email Infrastructure</b>: Centralized zero-trust secrets management via <b>Doppler</b> across Vercel, OCI, and Render + <b>Resend API</b> for high-deliverability transactional emails.</li>
+        </ul>
+      </details>
+      <br/>
       <p>
         <img src="https://img.shields.io/badge/Vercel-0B0F17?style=flat-square&logo=vercel&logoColor=white" />
         <img src="https://img.shields.io/badge/Oracle_Cloud-0B0F17?style=flat-square&logo=oracle&logoColor=F80000" />
@@ -78,7 +87,8 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
 
 <br/>
 
----
+<!-- Animated Wave Section Divider -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0B0F17&height=80&section=header&stroke=10B981&strokeWidth=1.5" width="100%" />
 
 ### 🛠️ Technical Competencies, MCP Tooling & AI Stack
 
@@ -176,47 +186,51 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
 
 ### 🌐 1. Web & Full-Stack Applications
 
-<table>
-  <thead>
-    <tr>
-      <th>Application</th>
-      <th>Primary Language & Stack</th>
-      <th>Domain & Architecture Overview</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://trijon.in"><b>Trijon.in (Live 🟢)</b></a></td>
-      <td><code>React 19</code> <code>Caddy</code> <code>Render API</code> <code>Shiprocket</code> <code>Cashfree</code></td>
-      <td>Multi-cloud enterprise platform with Caddy reverse proxy, DR multi-region failover, Shiprocket APIs, and Doppler secrets.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/ats-resume-builder-scanner"><b>ats-resume-builder-scanner</b></a></td>
-      <td><code>TypeScript</code> <code>Node.js</code> <code>React</code></td>
-      <td>High-accuracy AI resume parsing, chronological PDF de-interlacing, and ATS keyword matching engine.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/JobChecker"><b>JobChecker</b></a></td>
-      <td><code>Python</code> <code>FastAPI</code> <code>Privacy-First</code></td>
-      <td>Local-first, privacy-preserving AI job application assistant & intelligence analytics dashboard.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/phase3-SportyShoe"><b>phase3-SportyShoe</b></a></td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>Hibernate</code></td>
-      <td>E-commerce inventory and order management system tailored for footwear retail operations.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/phase4-Quiz-Application"><b>phase4-Quiz-Application</b></a></td>
-      <td><code>TypeScript</code> <code>HTML/CSS</code></td>
-      <td>Interactive online testing & evaluation platform with dynamic question categories and real-time scoring.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/Full-Stack-Projects"><b>Full-Stack-Projects</b></a></td>
-      <td><code>TypeScript</code> <code>Python</code> <code>HTML</code></td>
-      <td>Full-stack application collection featuring responsive UI components, REST APIs, and database integrations.</td>
-    </tr>
-  </tbody>
-</table>
+<details open>
+  <summary><b>📂 Expand Web Applications & Production Platforms (6 Projects)</b></summary>
+  <br/>
+  <table>
+    <thead>
+      <tr>
+        <th>Application</th>
+        <th>Primary Language & Stack</th>
+        <th>Domain & Architecture Overview</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://trijon.in"><b>Trijon.in (Live 🟢)</b></a></td>
+        <td><code>React 19</code> <code>Caddy</code> <code>Render API</code> <code>Shiprocket</code> <code>Cashfree</code></td>
+        <td>Multi-cloud enterprise platform with Caddy reverse proxy, DR multi-region failover, Shiprocket APIs, and Doppler secrets.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/ats-resume-builder-scanner"><b>ats-resume-builder-scanner</b></a></td>
+        <td><code>TypeScript</code> <code>Node.js</code> <code>React</code></td>
+        <td>High-accuracy AI resume parsing, chronological PDF de-interlacing, and ATS keyword matching engine.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/JobChecker"><b>JobChecker</b></a></td>
+        <td><code>Python</code> <code>FastAPI</code> <code>Privacy-First</code></td>
+        <td>Local-first, privacy-preserving AI job application assistant & intelligence analytics dashboard.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/phase3-SportyShoe"><b>phase3-SportyShoe</b></a></td>
+        <td><code>Java</code> <code>Spring Boot</code> <code>Hibernate</code></td>
+        <td>E-commerce inventory and order management system tailored for footwear retail operations.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/phase4-Quiz-Application"><b>phase4-Quiz-Application</b></a></td>
+        <td><code>TypeScript</code> <code>HTML/CSS</code></td>
+        <td>Interactive online testing & evaluation platform with dynamic question categories and real-time scoring.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/Full-Stack-Projects"><b>Full-Stack-Projects</b></a></td>
+        <td><code>TypeScript</code> <code>Python</code> <code>HTML</code></td>
+        <td>Full-stack application collection featuring responsive UI components, REST APIs, and database integrations.</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 <br/>
 
@@ -224,32 +238,36 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
 
 ### 📱 2. Mobile Applications (Android)
 
-<table>
-  <thead>
-    <tr>
-      <th>Mobile Application</th>
-      <th>Primary Language & Stack</th>
-      <th>Domain & Mobile Features</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/codergautam25/Railway-Time-Table-management"><b>Railway-Time-Table-management</b></a> ★1</td>
-      <td><code>Java</code> <code>Android SDK</code> <code>SQLite/JDBC</code></td>
-      <td>Android railway timetable management app featuring schedule lookups, train route tracking, and seat availability.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/Consult-a-doctor"><b>Consult-a-doctor</b></a></td>
-      <td><code>Java</code> <code>Android SDK</code> <code>Spring Boot</code></td>
-      <td>Android healthcare appointment booking app connecting patients with specialized medical consultants.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/bookHub"><b>bookHub</b></a></td>
-      <td><code>Kotlin</code> <code>Android SDK</code> <code>REST API</code></td>
-      <td>Native Android book discovery app providing curated reading lists, user reviews, and star ratings.</td>
-    </tr>
-  </tbody>
-</table>
+<details>
+  <summary><b>📱 Expand Mobile Applications (3 Native Android Projects)</b></summary>
+  <br/>
+  <table>
+    <thead>
+      <tr>
+        <th>Mobile Application</th>
+        <th>Primary Language & Stack</th>
+        <th>Domain & Mobile Features</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/codergautam25/Railway-Time-Table-management"><b>Railway-Time-Table-management</b></a> ★1</td>
+        <td><code>Java</code> <code>Android SDK</code> <code>SQLite/JDBC</code></td>
+        <td>Android railway timetable management app featuring schedule lookups, train route tracking, and seat availability.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/Consult-a-doctor"><b>Consult-a-doctor</b></a></td>
+        <td><code>Java</code> <code>Android SDK</code> <code>Spring Boot</code></td>
+        <td>Android healthcare appointment booking app connecting patients with specialized medical consultants.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/bookHub"><b>bookHub</b></a></td>
+        <td><code>Kotlin</code> <code>Android SDK</code> <code>REST API</code></td>
+        <td>Native Android book discovery app providing curated reading lists, user reviews, and star ratings.</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 <br/>
 
@@ -257,47 +275,51 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
 
 ### 🧪 3. Proofs of Concept (PoCs) & Distributed Architecture
 
-<table>
-  <thead>
-    <tr>
-      <th>Proof of Concept (PoC)</th>
-      <th>Primary Language & Technology</th>
-      <th>Architectural Focus & Purpose</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/codergautam25/Kafka-xml-smt"><b>Kafka-xml-smt</b></a></td>
-      <td><code>Java</code> <code>Apache Kafka SMT</code></td>
-      <td>Custom Single Message Transform (SMT) for real-time legacy XML payload transformation within Kafka Connect connectors.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/Quarkas_streaming_ksqldb"><b>Quarkas_streaming_ksqldb</b></a></td>
-      <td><code>Java</code> <code>Quarkus</code> <code>ksqlDB</code></td>
-      <td>Reactive event processing architecture combining Quarkus microservices with real-time ksqlDB stream joins.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/kafkaConsumer"><b>kafkaConsumer</b></a></td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>Kafka</code></td>
-      <td>Resilient Kafka consumer implementation featuring manual offset acknowledgment, retries, and custom deserializers.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/kafkaProducer"><b>kafkaProducer</b></a></td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>Kafka</code></td>
-      <td>High-throughput Kafka producer with idempotent publishing, failure handling, and partition key routing.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/kafka-railway-time"><b>kafka-railway-time</b></a></td>
-      <td><code>Java</code> <code>Kafka</code> <code>Event-Driven</code></td>
-      <td>Event-driven streaming PoC for real-time railway schedule updates streamed over Kafka topics.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/secure-password-local-manager-vault"><b>secure-password-local-manager-vault</b></a></td>
-      <td><code>Python</code> <code>Cryptography</code> <code>AES-256</code></td>
-      <td>Zero-trust encrypted password vault using AES-256 and PBKDF2 key derivation for local secret storage.</td>
-    </tr>
-  </tbody>
-</table>
+<details>
+  <summary><b>🧪 Expand Proofs of Concept & Event Streaming PoCs (6 Repositories)</b></summary>
+  <br/>
+  <table>
+    <thead>
+      <tr>
+        <th>Proof of Concept (PoC)</th>
+        <th>Primary Language & Technology</th>
+        <th>Architectural Focus & Purpose</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/codergautam25/Kafka-xml-smt"><b>Kafka-xml-smt</b></a></td>
+        <td><code>Java</code> <code>Apache Kafka SMT</code></td>
+        <td>Custom Single Message Transform (SMT) for real-time legacy XML payload transformation within Kafka Connect connectors.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/Quarkas_streaming_ksqldb"><b>Quarkas_streaming_ksqldb</b></a></td>
+        <td><code>Java</code> <code>Quarkus</code> <code>ksqlDB</code></td>
+        <td>Reactive event processing architecture combining Quarkus microservices with real-time ksqlDB stream joins.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/kafkaConsumer"><b>kafkaConsumer</b></a></td>
+        <td><code>Java</code> <code>Spring Boot</code> <code>Kafka</code></td>
+        <td>Resilient Kafka consumer implementation featuring manual offset acknowledgment, retries, and custom deserializers.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/kafkaProducer"><b>kafkaProducer</b></a></td>
+        <td><code>Java</code> <code>Spring Boot</code> <code>Kafka</code></td>
+        <td>High-throughput Kafka producer with idempotent publishing, failure handling, and partition key routing.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/kafka-railway-time"><b>kafka-railway-time</b></a></td>
+        <td><code>Java</code> <code>Kafka</code> <code>Event-Driven</code></td>
+        <td>Event-driven streaming PoC for real-time railway schedule updates streamed over Kafka topics.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/secure-password-local-manager-vault"><b>secure-password-local-manager-vault</b></a></td>
+        <td><code>Python</code> <code>Cryptography</code> <code>AES-256</code></td>
+        <td>Zero-trust encrypted password vault using AES-256 and PBKDF2 key derivation for local secret storage.</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 <br/>
 
@@ -305,64 +327,69 @@ Daily workflow revolves around building zero-downtime data pipelines with **Terr
 
 ### 🔬 4. Demo Projects, DevOps Infrastructure & Educational Labs
 
-<table>
-  <thead>
-    <tr>
-      <th>Demo / Lab Repository</th>
-      <th>Primary Language & Tooling</th>
-      <th>Technical Category & Focus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/codergautam25/Docker_project"><b>Docker_project</b></a></td>
-      <td><code>Dockerfile</code> <code>Docker Compose</code></td>
-      <td>Multi-container application orchestration demonstration featuring multi-stage Docker builds and network isolation.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/Phase2-Flyway"><b>Phase2-Flyway</b></a></td>
-      <td><code>Java</code> <code>Flyway</code> <code>SQL</code></td>
-      <td>Relational database schema migration PoC showcasing versioned database scripts with Flyway.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/jenkinsDemo"><b>jenkinsDemo</b></a></td>
-      <td><code>Groovy</code> <code>Jenkins</code> <code>CI/CD</code></td>
-      <td>Continuous Integration pipeline demo showcasing automated build stages, testing scripts, and deployment steps.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/PasswordManager"><b>PasswordManager</b></a></td>
-      <td><code>Python</code> <code>Security</code></td>
-      <td>Command-line encrypted password storage demo with master key authentication.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/GitHub-Simplilearn"><b>GitHub-Simplilearn</b></a></td>
-      <td><code>Git</code> <code>Version Control</code></td>
-      <td>Practical demonstration of advanced Git workflows, branch strategies, and commit history management.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/Simplilearn-GitHUb-Assessment-"><b>Simplilearn-GitHUb-Assessment</b></a></td>
-      <td><code>Git</code> <code>Assessment</code></td>
-      <td>Enterprise software engineering assessment showcasing version control and repository management best practices.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/codergautam25/simplilearn_september_batch"><b>simplilearn_september_batch</b></a></td>
-      <td><code>Java</code> <code>DevOps</code> <code>Cloud</code></td>
-      <td>Comprehensive engineering lab exercises and practical code implementations for cloud architecture and enterprise Java.</td>
-    </tr>
-  </tbody>
-</table>
+<details>
+  <summary><b>🔬 Expand DevOps Infrastructure & Educational Labs (7 Repositories)</b></summary>
+  <br/>
+  <table>
+    <thead>
+      <tr>
+        <th>Demo / Lab Repository</th>
+        <th>Primary Language & Tooling</th>
+        <th>Technical Category & Focus</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/codergautam25/Docker_project"><b>Docker_project</b></a></td>
+        <td><code>Dockerfile</code> <code>Docker Compose</code></td>
+        <td>Multi-container application orchestration demonstration featuring multi-stage Docker builds and network isolation.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/Phase2-Flyway"><b>Phase2-Flyway</b></a></td>
+        <td><code>Java</code> <code>Flyway</code> <code>SQL</code></td>
+        <td>Relational database schema migration PoC showcasing versioned database scripts with Flyway.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/jenkinsDemo"><b>jenkinsDemo</b></a></td>
+        <td><code>Groovy</code> <code>Jenkins</code> <code>CI/CD</code></td>
+        <td>Continuous Integration pipeline demo showcasing automated build stages, testing scripts, and deployment steps.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/PasswordManager"><b>PasswordManager</b></a></td>
+        <td><code>Python</code> <code>Security</code></td>
+        <td>Command-line encrypted password storage demo with master key authentication.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/GitHub-Simplilearn"><b>GitHub-Simplilearn</b></a></td>
+        <td><code>Git</code> <code>Version Control</code></td>
+        <td>Practical demonstration of advanced Git workflows, branch strategies, and commit history management.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/Simplilearn-GitHUb-Assessment-"><b>Simplilearn-GitHUb-Assessment</b></a></td>
+        <td><code>Git</code> <code>Assessment</code></td>
+        <td>Enterprise software engineering assessment showcasing version control and repository management best practices.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/codergautam25/simplilearn_september_batch"><b>simplilearn_september_batch</b></a></td>
+        <td><code>Java</code> <code>DevOps</code> <code>Cloud</code></td>
+        <td>Comprehensive engineering lab exercises and practical code implementations for cloud architecture and enterprise Java.</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 <br/>
 
----
+<!-- Animated Wave Section Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0F17&height=90&section=footer&stroke=10B981&strokeWidth=1.5" width="100%" />
 
-### 📊 Engineering Metrics & Contribution Activity
+### 📊 Engineering Metrics & Contribution Telemetry
 
 <div align="center">
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codergautam25&theme=2077" alt="Profile Details Card" height="175" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=codergautam25&theme=react-dark&background=0B0F17&border=1E293B&stroke=10B981&ring=10B981&fire=F59E0B&currStreakLabel=10B981" alt="GitHub Streak Stats" height="175" />
     &nbsp;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codergautam25&theme=2077" alt="Productive Time Card" height="175" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codergautam25&theme=2077" alt="Profile Details Card" height="175" />
   </p>
   <br/>
   <p align="center">
